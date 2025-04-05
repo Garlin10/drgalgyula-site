@@ -930,6 +930,23 @@ a:focus {
 .footer_section p a {
     color: inherit;
 }
+
+.service_section .img-box {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.service_section .img-box img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
 /*# sourceMappingURL=style.css.map */
 @media (max-width: 768px) {
     .service_section .img-box {
