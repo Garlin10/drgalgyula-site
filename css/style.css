@@ -931,3 +931,11 @@ a:focus {
     color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+@media (max-width: 768px) {
+    .service_section .img-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+}
